@@ -1,3 +1,15 @@
 {
-    
+    "posts": [
+        {
+            "id": 1,
+            "title": "Hi, my friends"
+        }
+    ],
+
+    "profile": [
+        {
+            "name": "Kanat",
+            "hobbis": "run"
+        }
+    ]
 }
